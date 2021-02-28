@@ -1,4 +1,4 @@
 # ramen-bot
 Slack用のおすすめラーメンを教えてくれるbotです。
 
-本アプリケーションは、GAS上で動作することを想定してます。
+動作環境　Google App Script
